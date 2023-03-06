@@ -1,18 +1,24 @@
 baseURL = 'https://ScotuzziJr.github.io/marc.py/'
 languageCode = 'pt-br'
-title = 'Marc.py'
-theme='shell'
+title = 'marc.py'
+theme='terminal'
 
 [params]
  author = "marc"
  description = "Software é político"
  
- [[params.social]]
-   icon = "github"
-   name = "Github"
-   url = "https://github.com/ScotuzziJr"
+ contentTypeName = "posts"
 
- [[params.social]]
-   icon = "twitter"
-   name = "Twitter"
-   url = "https://twitter.com/scotuzzijr"
+ themeColor = "green"
+
+ centerTheme = true
+ autoCover = true
+
+[languages]
+   [languages.en]
+   title = "marc.py"
+   subtitle = "Software é político"
+
+   [languages.en.params.logo]
+      logoText = "marc.py"
+

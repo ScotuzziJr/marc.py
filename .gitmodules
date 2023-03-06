@@ -1,3 +1,6 @@
 [submodule "themes/shell"]
 	path = themes/shell
 	url = git@github.com:Yukuro/hugo-theme-shell.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = git@github.com:panr/hugo-theme-terminal.git
