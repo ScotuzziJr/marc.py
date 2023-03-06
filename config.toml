@@ -1,3 +1,18 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://ScotuzziJr.github.io/marc.py/'
+languageCode = 'pt-br'
+title = 'Marc.py'
+theme='shell'
+
+[params]
+ author = "marc"
+ description = "Software é político"
+ 
+ [[params.social]]
+   icon = "github"
+   name = "Github"
+   url = "https://github.com/ScotuzziJr"
+
+ [[params.social]]
+   icon = "twitter"
+   name = "Twitter"
+   url = "https://twitter.com/scotuzzijr"
