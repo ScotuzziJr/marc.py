@@ -9,7 +9,7 @@ theme='terminal'
  
  contentTypeName = "posts"
 
- themeColor = "pink"
+ themeColor = "green"
 
  centerTheme = true
  autoCover = true
